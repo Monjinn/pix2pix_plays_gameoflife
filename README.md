@@ -8,3 +8,8 @@ A machine learning program called Pix2pix which utilizes Generative Adversarial 
 
 ## Conclusions ##
 Trained network is able to play the game but makes mistakes on the edges of the "game field". 
+
+## Related Work ##
+- [Original Pix2pix & CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+
+- [DCGAN](https://github.com/soumith/dcgan.torch)
