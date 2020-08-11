@@ -8,7 +8,7 @@ A machine learning program called Pix2pix which utilizes Generative Adversarial 
 
 ### Error ###
 
-The error of the machine learning network grows as the generations go. The error is calculated for each generation as the difference of each corresponding pixel in the two images. Here is a graph to demonstrate the error:
+The error of the machine learning network grows as the generations go. The error is calculated for each generation as a sum of the difference of each corresponding pixel in the two images. Here is a graph to demonstrate the error:
 
 <img src='imgs/error.png' width=450>
 
