@@ -6,6 +6,16 @@ A machine learning program called Pix2pix which utilizes Generative Adversarial 
 
 <img src='imgs/Simulation.gif' width=512>
 
+<img align="right" src='imgs/error.png' width=450>
+
+<br>
+
+### Error ###
+
+The error of the machine learning network grows as the generations go. The error is calculated for each generation as the difference of each corresponding pixel in the two images. Here is a graph to demonstrate the error:
+
+<br><br><br><br><br><br>
+
 ## Conclusions ##
 Trained network is able to play the game but makes mistakes on the edges of the "game field". 
 
