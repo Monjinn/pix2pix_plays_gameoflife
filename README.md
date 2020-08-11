@@ -4,7 +4,7 @@ A machine learning program called Pix2pix which utilizes Generative Adversarial 
 ## Results ##
 *Video of Pix2pix playing Game of Life:*
 
-<img src='imgs/simulation.gif' align="left" width=512>
+<img src='imgs/Simulation.gif' align="left" width=512>
 
 ## Conclusions ##
 Trained network is able to play the game but makes mistakes on the edges of the "game field". 
