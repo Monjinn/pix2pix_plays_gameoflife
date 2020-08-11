@@ -1,5 +1,5 @@
 # Pix2pix plays Conway's Game Of Life
-A machine learning program called Pix2pix which utilizes Generative Adversarial Networks *(GANs)* was trained to play Conway's Game of Life cellular automaton. The network was trained using a dataset which consists of 100 image with 512x512 resolution. Training run 200 epochs with default settings defined by [original authors of Pix2pix](https://phillipi.github.io/pix2pix/).
+A machine learning program called [Pix2pix](https://phillipi.github.io/pix2pix/) which utilizes [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) *(GANs)* was trained to play [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automaton. The network was trained using a dataset which consists of 100 image with 512x512 resolution. Training run 200 epochs with default settings defined by [original authors of Pix2pix](https://phillipi.github.io/pix2pix/).
 
 ## Results ##
 *Video of Pix2pix playing Game of Life:*
