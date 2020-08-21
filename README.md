@@ -13,7 +13,7 @@ The error of the machine learning network grows as the generations go. The error
 <img src='imgs/error.png' width=450>
 
 ## Conclusions ##
-Trained network is able to play the game but makes mistakes on the edges of the "game field" which increases the error of the network. While playing the game the error accumulates over time and therefore the end result is far apart from the actual simulation of the game. However to the human eye the game looks real even though there are mistakes.
+Trained network is able to play the game but makes mistakes on the edges of the "game field" which increases the error of the network. While playing the game the error accumulates over time and therefore the end result is far apart from the actual simulation of the game. However, to the human eye, the game looks real even though there are mistakes.
 
 ## Related Work ##
 - [Original Pix2pix & CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
